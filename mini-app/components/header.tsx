@@ -30,6 +30,10 @@ const pages = [
     ),
     href: "/",
   },
+  {
+    label: <span className="text-lg">Clash</span>,
+    href: "/clash",
+  },
 ];
 
 export function Header() {
